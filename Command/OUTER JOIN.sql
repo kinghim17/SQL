@@ -1,0 +1,15 @@
+customer_id,first_name,order_id
+1,Babara,NULL
+2,Ines,4
+2,Ines,7
+3,Freddi,NULL
+4,Ambur,NULL
+5,Clemmie,5
+5,Clemmie,8
+6,Elka,1
+6,Elka,10
+7,Ilene,2
+8,Thacher,3
+9,Romola,NULL
+10,Levy,6
+10,Levy,9
